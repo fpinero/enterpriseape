@@ -134,6 +134,7 @@ DEPENDENCIES
   devise
   jbuilder (~> 2.0)
   jquery-rails
+  mail
   pg
   rails (= 4.1.0)
   sass-rails (~> 4.0.3)
